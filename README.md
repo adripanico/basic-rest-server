@@ -10,7 +10,7 @@ It listens to GET, POST, PUT and DELETE requests, printing out and returning the
 
     git clone https://github.com/adripanico/basic-rest-server.git
     cd basic-rest-server
-    npm install
+    npm i
 
 ## Execution
 
